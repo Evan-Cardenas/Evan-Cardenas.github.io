@@ -1,6 +1,7 @@
 # Evan Cardenas' Portfolio
 
-Hello, I am Evan Cardenas, who is a Computer Engineering major, who wants to graduate in five years, believe it or not.
+Hello, I am Evan Cardenas, who is a Computer Engineering major at CSU Fullerton, who wants to graduate in five years, believe it or not.
+https://github.com/Evan-Cardenas (Github Profile)
 
 * Lab 10
 
